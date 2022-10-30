@@ -31,7 +31,7 @@ var zombInterval = setInterval(function () {
     zomb.click(function () {
         zomb.remove();
         kill++;
-        $("#kill").text("进入屋子的僵尸数: "+kill);
+        $("#kill").text("击败僵尸数: "+kill);
     })
 
 },300);
@@ -43,7 +43,7 @@ var moveInterval = setInterval(function (){
         if (parseInt($(this).css("left"))<=100){
             $(this).remove();
             dead++;
-            $("#dead").text("击败僵尸数: "+dead);
+            $("#dead").text("进入屋子的僵尸数: "+dead);
             if (dead>=20){
                 if (confirm("游戏结束,是否继续?")){
                     location.reload();
