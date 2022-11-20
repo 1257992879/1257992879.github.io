@@ -14,13 +14,13 @@ var zombInterval = setInterval(function () {
 
     var zomb;
     if (index===0){
-        zomb = $('<img src="Exercise-打僵尸-File/zomb0.png" class="zomb">');
+        zomb = $('<img src="Exercise-打僵尸-File/zomb0.png" class="zomb" ondragstart="return false">');
     }else if (index===1){
-        zomb = $('<img src="Exercise-打僵尸-File/zomb1.png" class="zomb">');
+        zomb = $('<img src="Exercise-打僵尸-File/zomb1.png" class="zomb" ondragstart="return false">');
     }else if (index===2){
-        zomb = $('<img src="Exercise-打僵尸-File/zomb2.png" class="zomb">');
+        zomb = $('<img src="Exercise-打僵尸-File/zomb2.png" class="zomb" ondragstart="return false">');
     }else {
-        zomb = $('<img src="Exercise-打僵尸-File/zomb3.png" class="zomb">');
+        zomb = $('<img src="Exercise-打僵尸-File/zomb3.png" class="zomb" ondragstart="return false">');
     }
 
     zomb.css("left",window.innerWidth+"px");
