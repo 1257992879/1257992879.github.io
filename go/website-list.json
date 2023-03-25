@@ -7,14 +7,14 @@
                 {
                     "link": "http://acm.neusoft.edu.cn",
                     "vpnLink": "http://acm.webvpn.neusoft.edu.cn",
-                    "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn_favicon.ico",
+                    "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn.ico",
                     "name": "OJ",
                     "desc": "进行程序设计竞赛练习",
                     "accessWay": "VPN"
                 },
                 {
                     "link": "http://172.17.7.100",
-                    "imageUrl": "./WebsiteIcon/jst.neusoft.edu.cn_favicon.ico",
+                    "imageUrl": "./WebsiteIcon/jst.neusoft.edu.cn.ico",
                     "name": "聚石塔OJ",
                     "desc": "100道程序设计练习题",
                     "accessWay": "仅内网"
