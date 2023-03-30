@@ -10,7 +10,7 @@
                     "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn.ico",
                     "name": "OJ",
                     "desc": "进行程序设计竞赛练习",
-                    "accessWay": "仅内网"
+                    "accessWay": "VPN"
                 },
                 {
                     "link": "http://172.17.7.100",
