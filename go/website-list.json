@@ -1,6 +1,64 @@
 {
     "websiteList": [
         {
+            "titleIconName": "el-icon-s-promotion",
+            "title": "通用",
+            "list": [
+                {
+                    "link": "http://hw.neusoft.edu.cn/hw/course/courselist.do",
+                    "vpnLink": "http://hw.webvpn.neusoft.edu.cn/hw/course/courselist.do",
+                    "imageUrl": "./WebsiteIcon/hw.neusoft.edu.cn.png",
+                    "name": "作业系统",
+                    "desc": "提交各科作业以及观看各科微课",
+                    "accessWay": "VPN"
+                },
+                {
+                    "link": "http://newjw.neusoft.edu.cn/jwweb/",
+                    "vpnLink": "http://newjw.webvpn.neusoft.edu.cn/jwweb/",
+                    "imageUrl": "./WebsiteIcon/newjw.neusoft.edu.cn.png",
+                    "name": "教务网站",
+                    "desc": "查询成绩、课程表、校历以及选课",
+                    "accessWay": "VPN"
+                },
+                {
+                    "link": "http://stu.neusoft.edu.cn",
+                    "vpnLink": "http://stu.webvpn.neusoft.edu.cn",
+                    "imageUrl": "./WebsiteIcon/stu.neusoft.edu.cn.png",
+                    "name": "综合门户网站",
+                    "desc": "素质教育管理及评价教师",
+                    "accessWay": "VPN"
+                },
+                {
+                    "link": "http://webvpn.neusoft.edu.cn",
+                    "imageUrl": "./WebsiteIcon/webvpn.neusoft.edu.cn.png",
+                    "name": "WebVPN",
+                    "desc": "通过WebVPN可在非校园网访问校内一部分网站",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://vpn.neuedu.com:4443",
+                    "imageUrl": "./WebsiteIcon/vpn.neuedu.com.png",
+                    "name": "隧道VPN",
+                    "desc": "通过隧道VPN完全连入校园网",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://examcas.neumooc.com/cas/",
+                    "imageUrl": "./WebsiteIcon/examcas.neumooc.com.png",
+                    "name": "东软考试系统",
+                    "desc": "通识知识考试",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://mail.dnui.edu.cn",
+                    "imageUrl": "./WebsiteIcon/mail.dnui.edu.cn.png",
+                    "name": "学生邮箱系统",
+                    "desc": "登陆教育邮箱，教育邮箱可领取各种福利",
+                    "accessWay": "公网"
+                }
+            ]
+        },
+        {
             "titleIconName": "el-icon-s-platform",
             "title": "计算机",
             "list": [
@@ -59,64 +117,6 @@
                     "imageUrl": "./WebsiteIcon/study.neutech.cn.png",
                     "name": "东软IT学堂",
                     "desc": "",
-                    "accessWay": "公网"
-                }
-            ]
-        },
-        {
-            "titleIconName": "el-icon-s-promotion",
-            "title": "通用",
-            "list": [
-                {
-                    "link": "http://hw.neusoft.edu.cn/hw/course/courselist.do",
-                    "vpnLink": "http://hw.webvpn.neusoft.edu.cn/hw/course/courselist.do",
-                    "imageUrl": "./WebsiteIcon/hw.neusoft.edu.cn.png",
-                    "name": "作业系统",
-                    "desc": "提交各科作业以及观看各科微课",
-                    "accessWay": "VPN"
-                },
-                {
-                    "link": "http://newjw.neusoft.edu.cn/jwweb/",
-                    "vpnLink": "http://newjw.webvpn.neusoft.edu.cn/jwweb/",
-                    "imageUrl": "./WebsiteIcon/newjw.neusoft.edu.cn.png",
-                    "name": "教务网站",
-                    "desc": "查询成绩、课程表、校历以及选课",
-                    "accessWay": "VPN"
-                },
-                {
-                    "link": "http://stu.neusoft.edu.cn",
-                    "vpnLink": "http://stu.webvpn.neusoft.edu.cn",
-                    "imageUrl": "./WebsiteIcon/stu.neusoft.edu.cn.png",
-                    "name": "综合门户网站",
-                    "desc": "素质教育管理及评价教师",
-                    "accessWay": "VPN"
-                },
-                {
-                    "link": "http://webvpn.neusoft.edu.cn",
-                    "imageUrl": "./WebsiteIcon/webvpn.neusoft.edu.cn.png",
-                    "name": "WebVPN",
-                    "desc": "通过WebVPN可在非校园网访问校内一部分网站",
-                    "accessWay": "公网"
-                },
-                {
-                    "link": "https://vpn.neuedu.com:4443",
-                    "imageUrl": "./WebsiteIcon/vpn.neuedu.com.png",
-                    "name": "隧道VPN",
-                    "desc": "通过隧道VPN完全连入校园网",
-                    "accessWay": "公网"
-                },
-                {
-                    "link": "https://examcas.neumooc.com/cas/",
-                    "imageUrl": "./WebsiteIcon/examcas.neumooc.com.png",
-                    "name": "东软考试系统",
-                    "desc": "通识知识考试",
-                    "accessWay": "公网"
-                },
-                {
-                    "link": "https://mail.dnui.edu.cn",
-                    "imageUrl": "./WebsiteIcon/mail.dnui.edu.cn.png",
-                    "name": "学生邮箱系统",
-                    "desc": "登陆教育邮箱，教育邮箱可领取各种福利",
                     "accessWay": "公网"
                 }
             ]
