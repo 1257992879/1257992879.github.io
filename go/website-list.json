@@ -21,6 +21,20 @@
                     "accessWay": "VPN"
                 },
                 {
+                    "link": "http://study1230.neuedu.com",
+                    "imageUrl": "./WebsiteIcon/study1230.neuedu.com.png",
+                    "name": "智慧教育平台",
+                    "desc": "刷课、做作业",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "http://cps.front.neucoding.com/home/index",
+                    "imageUrl": "./WebsiteIcon/cps.front.neucoding.com.png",
+                    "name": "课程实践平台",
+                    "desc": "代码实践",
+                    "accessWay": "公网"
+                },
+                {
                     "link": "http://stu.neusoft.edu.cn",
                     "vpnLink": "http://stu.webvpn.neusoft.edu.cn",
                     "imageUrl": "./WebsiteIcon/stu.neusoft.edu.cn.png",
