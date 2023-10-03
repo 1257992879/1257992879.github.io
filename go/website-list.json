@@ -28,6 +28,13 @@
                     "accessWay": "公网"
                 },
                 {
+                    "link": "https://one.neuedu.com/",
+                    "imageUrl": "./WebsiteIcon/one.neuedu.com.png",
+                    "name": "一网通平台",
+                    "desc": "学校应用集合, 整合电子身份卡(图书馆卡)等",
+                    "accessWay": "公网"
+                },
+                {
                     "link": "http://cps.front.neucoding.com/home/index",
                     "imageUrl": "./WebsiteIcon/cps.front.neucoding.com.png",
                     "name": "课程实践平台",
