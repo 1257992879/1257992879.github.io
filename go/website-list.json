@@ -1,7 +1,7 @@
 {
     "websiteList": [
         {
-            "titleIconName": "fa-solid fa-paper-plane",
+            "titleIconName": "el-icon-s-promotion",
             "title": "通用",
             "list": [
                 {
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "titleIconName": "fa-solid fa-computer",
+            "titleIconName": "el-icon-s-platform",
             "title": "计算机",
             "list": [
                 {
@@ -90,6 +90,20 @@
                     "name": "OJ",
                     "desc": "进行程序设计竞赛练习",
                     "accessWay": "VPN"
+                },
+                {
+                    "link": "http://172.17.7.100",
+                    "imageUrl": "./WebsiteIcon/jst.neusoft.edu.cn.ico",
+                    "name": "聚石塔OJ",
+                    "desc": "100道程序设计练习题",
+                    "accessWay": "仅内网"
+                },
+                {
+                    "link": "http://101.43.236.231:4567",
+                    "imageUrl": "./WebsiteIcon/101.43.236.231.ico",
+                    "name": "计算机拔尖",
+                    "desc": "查看典型题",
+                    "accessWay": "公网"
                 },
                 {
                     "link": "https://gitee.com",
@@ -125,18 +139,11 @@
                     "name": "东软IT学堂",
                     "desc": "",
                     "accessWay": "公网"
-                },
-                {
-                    "link": "http://172.17.7.100",
-                    "imageUrl": "./WebsiteIcon/jst.neusoft.edu.cn.ico",
-                    "name": "聚石塔OJ",
-                    "desc": "100道程序设计练习题",
-                    "accessWay": "仅内网"
                 }
             ]
         },
         {
-            "titleIconName": "fa-solid fa-book-open",
+            "titleIconName": "el-icon-reading",
             "title": "英语",
             "list": [
                 {
