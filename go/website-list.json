@@ -128,7 +128,7 @@
                 },
                 {
                     "link": "http://172.17.7.100",
-                    "imageUrl": "./WebsiteIcon/jst.neusoft.edu.cn.ico",
+                    "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn.ico",
                     "name": "聚石塔OJ",
                     "desc": "100道程序设计练习题",
                     "accessWay": "仅内网"
