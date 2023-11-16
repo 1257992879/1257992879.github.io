@@ -1,0 +1,159 @@
+{
+    "websiteList": [
+        {
+            "titleIconName": "fa-solid fa-paper-plane",
+            "title": "通用",
+            "list": [
+                {
+                    "link": "http://hw.neusoft.edu.cn/hw/course/courselist.do",
+                    "vpnLink": "http://hw.webvpn.neusoft.edu.cn/hw/course/courselist.do",
+                    "imageUrl": "./WebsiteIcon/hw.neusoft.edu.cn.png",
+                    "name": "作业系统",
+                    "desc": "提交各科作业以及观看各科微课",
+                    "accessWay": "VPN"
+                },
+                {
+                    "link": "http://newjw.neusoft.edu.cn/jwweb/",
+                    "vpnLink": "http://newjw.webvpn.neusoft.edu.cn/jwweb/",
+                    "imageUrl": "./WebsiteIcon/newjw.neusoft.edu.cn.png",
+                    "name": "教务网站",
+                    "desc": "查询成绩、课程表、校历以及选课",
+                    "accessWay": "VPN"
+                },
+                {
+                    "link": "http://study1230.neuedu.com",
+                    "imageUrl": "./WebsiteIcon/study1230.neuedu.com.png",
+                    "name": "智慧教育平台",
+                    "desc": "刷课、做作业",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://one.neuedu.com/",
+                    "imageUrl": "./WebsiteIcon/one.neuedu.com.png",
+                    "name": "一网通平台",
+                    "desc": "学校应用集合, 整合电子身份卡(图书馆卡)等",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "http://cps.front.neucoding.com/home/index",
+                    "imageUrl": "./WebsiteIcon/cps.front.neucoding.com.png",
+                    "name": "课程实践平台",
+                    "desc": "代码实践",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "http://stu.neusoft.edu.cn",
+                    "vpnLink": "http://stu.webvpn.neusoft.edu.cn",
+                    "imageUrl": "./WebsiteIcon/stu.neusoft.edu.cn.png",
+                    "name": "综合门户网站",
+                    "desc": "素质教育管理及评价教师",
+                    "accessWay": "VPN"
+                },
+                {
+                    "link": "http://webvpn.neusoft.edu.cn",
+                    "imageUrl": "./WebsiteIcon/webvpn.neusoft.edu.cn.png",
+                    "name": "WebVPN",
+                    "desc": "通过WebVPN可在非校园网访问校内一部分网站",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://vpn.neuedu.com:4443",
+                    "imageUrl": "./WebsiteIcon/vpn.neuedu.com.png",
+                    "name": "隧道VPN",
+                    "desc": "通过隧道VPN完全连入校园网",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://examcas.neumooc.com/cas/",
+                    "imageUrl": "./WebsiteIcon/examcas.neumooc.com.png",
+                    "name": "东软考试系统",
+                    "desc": "通识知识考试",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://mail.dnui.edu.cn",
+                    "imageUrl": "./WebsiteIcon/mail.dnui.edu.cn.png",
+                    "name": "学生邮箱系统",
+                    "desc": "登陆教育邮箱，教育邮箱可领取各种福利",
+                    "accessWay": "公网"
+                }
+            ]
+        },
+        {
+            "titleIconName": "fa-solid fa-computer",
+            "title": "计算机",
+            "list": [
+                {
+                    "link": "http://acm.neusoft.edu.cn",
+                    "vpnLink": "http://acm.webvpn.neusoft.edu.cn",
+                    "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn.ico",
+                    "name": "OJ",
+                    "desc": "进行程序设计竞赛练习",
+                    "accessWay": "VPN"
+                },
+                {
+                    "link": "https://gitee.com",
+                    "imageUrl": "./WebsiteIcon/gitee.com.ico",
+                    "name": "gitee码云",
+                    "desc": "",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://github.com",
+                    "imageUrl": "./WebsiteIcon/github.com.png",
+                    "name": "GitHub",
+                    "desc": "能不能打开随缘吧...",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://www.icourse163.org",
+                    "imageUrl": "./WebsiteIcon/www.icourse163.org.png",
+                    "name": "中国大学幕课",
+                    "desc": "自学的好网站",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://developer.mozilla.org/zh-CN/",
+                    "imageUrl": "./WebsiteIcon/developer.mozilla.org.png",
+                    "name": "Web API文档",
+                    "desc": "Mozilla出的Web API文档",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://study.neutech.cn",
+                    "imageUrl": "./WebsiteIcon/study.neutech.cn.png",
+                    "name": "东软IT学堂",
+                    "desc": "",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "http://172.17.7.100",
+                    "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn.ico",
+                    "name": "聚石塔OJ",
+                    "desc": "100道程序设计练习题",
+                    "accessWay": "仅内网"
+                }
+            ]
+        },
+        {
+            "titleIconName": "fa-solid fa-book-open",
+            "title": "英语",
+            "list": [
+                {
+                    "link": "https://itestcloud.unipus.cn/",
+                    "imageUrl": "./WebsiteIcon/itestcloud.unipus.cn.png",
+                    "name": "iTest",
+                    "desc": "英语阶段考试",
+                    "accessWay": "公网"
+                },
+                {
+                    "link": "https://www.pigai.org",
+                    "imageUrl": "./WebsiteIcon/pigai.org.ico",
+                    "name": "批改网",
+                    "desc": "写英语作文的",
+                    "accessWay": "公网"
+                }
+            ]
+        }
+    ]
+}
