@@ -35,6 +35,13 @@
                     "accessWay": "公网"
                 },
                 {
+                    "link": "https://i.chaoxing.com/",
+                    "imageUrl": "./WebsiteIcon/i.chaoxing.com.png",
+                    "name": "学习通",
+                    "desc": "刷课",
+                    "accessWay": "公网"
+                },
+                {
                     "link": "http://cps.front.neucoding.com/home/index",
                     "imageUrl": "./WebsiteIcon/cps.front.neucoding.com.png",
                     "name": "课程实践平台",
@@ -84,12 +91,11 @@
             "title": "计算机",
             "list": [
                 {
-                    "link": "http://acm.neusoft.edu.cn",
-                    "vpnLink": "http://acm.webvpn.neusoft.edu.cn",
-                    "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn.ico",
-                    "name": "OJ",
-                    "desc": "进行程序设计竞赛练习",
-                    "accessWay": "VPN"
+                    "link": "https://pintia.cn/",
+                    "imageUrl": "./WebsiteIcon/pintia.cn.png",
+                    "name": "PTA实践平台",
+                    "desc": "代码实践",
+                    "accessWay": "公网"
                 },
                 {
                     "link": "https://gitee.com",
@@ -125,6 +131,14 @@
                     "name": "东软IT学堂",
                     "desc": "",
                     "accessWay": "公网"
+                },
+                {
+                    "link": "http://acm.neusoft.edu.cn",
+                    "vpnLink": "http://acm.webvpn.neusoft.edu.cn",
+                    "imageUrl": "./WebsiteIcon/acm.neusoft.edu.cn.ico",
+                    "name": "OJ",
+                    "desc": "进行程序设计竞赛练习",
+                    "accessWay": "VPN"
                 },
                 {
                     "link": "http://172.17.7.100",
